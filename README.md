@@ -2,8 +2,7 @@
 
 Ingeniero en Sistemas Computacionales con experiencia en desarrollo de software utilizando Java, Spring Boot, React y Docker.
 
-## Tecnologías principales
-
+##Tecnologías principales
 * Java
 * Spring Boot
 * React
@@ -11,21 +10,27 @@ Ingeniero en Sistemas Computacionales con experiencia en desarrollo de software 
 * MySQL
 * PostgreSQL
 * Firebase
+* Git
+* Proyectos destacados
 * REST APIs
 
-## Proyectos destacados
+#Sistema Inteligente de Control de Accesos (CBTis 134)
 
-### Sistema Inteligente de Control de Accesos (CBTis 134)
+Sistema actualmente utilizado para la gestión de accesos y control escolar de más de 1,800 alumnos.
 
-Sistema actualmente utilizado para la gestión de accesos y control escolar.
+Tecnologías: Java, Spring Boot, Firebase Authentication, Docker, Face API.
 
-### Sistema de Gestión de Incidencias
+#Sistema de Gestión de Incidencias
 
-Arquitectura basada en microservicios desarrollada con Spring Boot, Docker y React.
+Arquitectura basada en microservicios desarrollada para la gestión de incidencias municipales.
 
-### Aplicación de Gestión de Residencias
+Tecnologías: Java 21, Spring Boot, React, Docker, OpenFeign, JWT.
 
-Aplicación Android desarrollada con Firebase y exportación de documentos PDF.
+#Aplicación de Gestión de Residencias
+
+Aplicación Android desarrollada para la administración de residencias profesionales.
+
+Tecnologías: Android Studio, Firebase, PDF Export.
 
 ## Contacto
 
