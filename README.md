@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Kevin 👋
 
-<!--
-**kevindecifrador/kevindecifrador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Sistemas Computacionales con experiencia en desarrollo de software utilizando Java, Spring Boot, React y Docker.
 
-Here are some ideas to get you started:
+## Tecnologías principales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Spring Boot
+* React
+* Docker
+* MySQL
+* PostgreSQL
+* Firebase
+
+## Proyectos destacados
+
+### Sistema Inteligente de Control de Accesos (CBTis 134)
+
+Sistema actualmente utilizado para la gestión de accesos y control escolar.
+
+### Sistema de Gestión de Incidencias
+
+Arquitectura basada en microservicios desarrollada con Spring Boot, Docker y React.
+
+### Aplicación de Gestión de Residencias
+
+Aplicación Android desarrollada con Firebase y exportación de documentos PDF.
+
+## Contacto
+
+* LinkedIn: www.linkedin.com/in/kevin-yael-sánchez-2364ab412
+* Correo: kev99cbtisk@gmail.com
