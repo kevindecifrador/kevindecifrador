@@ -11,6 +11,7 @@ Ingeniero en Sistemas Computacionales con experiencia en desarrollo de software 
 * MySQL
 * PostgreSQL
 * Firebase
+* REST APIs
 
 ## Proyectos destacados
 
